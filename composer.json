@@ -1,0 +1,23 @@
+{
+    "name":"jiangchengbin/WeiXin",
+    "description": "Laravel 5 wrapper for the WeiXin API.",
+    "homepage": "https://github.com/jiangchengbin/WeiXin",
+    "license":"MIT",
+    "keywords": ["jiangchengbin", "WeiXin", "API"],
+    "version":"1.0.0",
+    "authors": [
+		{
+			"name": "Joe Jiang",
+			"email": "317000334@qq.com",
+			"homepage": "http://jcb.lixijing520.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Jiangchengbin\\WeiXin\\": "src/"
+		}
+	}
+}
