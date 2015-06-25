@@ -1,9 +1,9 @@
 {
-    "name":"jiangchengbin/WeiXin",
+    "name":"jiangchengbin/weixin",
     "description": "Laravel 5 wrapper for the WeiXin API.",
     "homepage": "https://github.com/jiangchengbin/WeiXin",
     "license":"MIT",
-    "keywords": ["jiangchengbin", "WeiXin", "API"],
+    "keywords": ["jiangchengbin", "wei-xin", "API"],
     "version":"1.0.0",
     "authors": [
 		{
@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Jiangchengbin\\WeiXin\\": "src/"
+			"Jiangchengbin\\weixin\\": "src/"
 		}
 	}
 }
