@@ -4,6 +4,9 @@ use App\Pay;
 
 class WeiXin
 {
-	
+	public function test()
+	{
+		echo "WeiXin test";
+	}
 	
 }

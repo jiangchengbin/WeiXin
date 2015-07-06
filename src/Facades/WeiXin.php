@@ -1,4 +1,4 @@
-<?php namespace Jiangchengbin\WeiXin\Facades;
+<?php namespace Jiangchengbin\Weixin\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

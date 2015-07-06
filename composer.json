@@ -4,11 +4,11 @@
     "homepage": "https://github.com/jiangchengbin/WeiXin",
     "license":"MIT",
     "keywords": ["jiangchengbin", "wei-xin", "API"],
-    "version":"1.0.4",
+    "version":"1.0.5",
     "authors": [
 		{
 			"name": "Joe Jiang",
-			"email": "317000334@qq.com",
+			"email": "jiang_chengbin@qq.com",
 			"homepage": "http://jcb.lixijing520.com"
 		}
 	],

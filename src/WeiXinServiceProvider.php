@@ -1,4 +1,4 @@
-<?php namespace Jiangchengbin\WeiXin;
+<?php namespace Jiangchengbin\Weixin;
 
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Support\ServiceProvider;
@@ -26,7 +26,7 @@ class WeiXinServiceProvider extends ServiceProvider {
 	{
 		$this->app['WeiXin'] = $this->app->share(
             function ($app) {
-                return new \Jiangchengbin\WeiXin\WeiXin();
+                return new \Jiangchengbin\weixin\WeiXin();
             }
         );
 	}
