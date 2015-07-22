@@ -1,4 +1,4 @@
-# Laravel 5 微信接口封装包
+# Laravel 5 微信接口封装包(增加支付宝封装)
 
 =================
 Laravel 5 wrapper for the [WeiXin](http://www.lixijing520.com) API.
@@ -14,7 +14,7 @@ composer require jiangchengbin/weixin:~1.0
 Add the service provider to ```config/app.php``` in the `providers` array.
 
 ```php
-'Jiangchengbin\\WeiXinServiceProvider'
+'Jiangchengbin\weixin\WeiXinServiceProvider'
 ```
 
 If you want you can use the [facade](http://laravel.com/docs/facades). Add the reference in ```config/app.php``` to your aliases array.
