@@ -20,7 +20,7 @@ Add the service provider to ```config/app.php``` in the `providers` array.
 If you want you can use the [facade](http://laravel.com/docs/facades). Add the reference in ```config/app.php``` to your aliases array.
 
 ```php
-'Dev' => 'Jiangchengbin\weixin\Facades\Dev'
+'Weixin'=> 'Jiangchengbin\weixin\Facades\WeiXin',
 ```
 
 ## Configuration
